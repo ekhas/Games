@@ -13,3 +13,11 @@ java -cp ChineseChessPro-v{$version}.jar kw.chinesechess.board.ChineseChess
 -> The improvement-wish-list in the future: better A.I. algorithm, better GUI interface, implement a 'SAVE' and 'UNDO' functionalities.
 
 **Note: in order to protect the copyright, I have taken out all the *.java source files inside the kw.chinesechess.engine package.  Any serious inquirer can contact me for the whole source code.
+
+
+![screenshot](https://raw.github.com/wwken/Games/master/ChineseChessPro/screenshots/gameStart.png) 
+Screen shot 1: The game starts at this (Red chess is we human, while Black chess is the computer smart robot
+
+
+ ![screenshot](https://raw.github.com/wwken/Games/master/ChineseChessPro/screenshots/gameDevelopment.png)
+Screen shot 2: The game development after some moves are made by human and the computer smart robot
