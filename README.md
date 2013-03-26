@@ -11,6 +11,6 @@ All board and chess games:
 
 Author: Ken Wu
 
-Date: 2012-2013
+Date: 2010-2013
 
 © 2010-2013 Ken Wu All rights reserved.
